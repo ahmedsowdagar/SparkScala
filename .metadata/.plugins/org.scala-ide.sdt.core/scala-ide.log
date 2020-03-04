@@ -1371,3 +1371,21 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: 1730
 	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:69)
 	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
 2020-01-11 12:31:06,165 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Error occurred while executing 'org.scalaide.ui.internal.editor.decorators.implicits.ImplicitHighlightingPresenter'. Check the previous stack trace for more information.
+2020-03-04 03:26:08,905  WARN [main] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-04 03:26:08,911  WARN [main] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-04 03:26:08,925  WARN [main] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-04 03:26:08,929  WARN [main] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-04 03:26:18,369  WARN [main] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2020-03-04 03:26:18,369  WARN [main] - ScalaProject - Project LearningScala runs on platform default installation.
+2020-03-04 13:45:47,038  WARN [main] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-04 13:45:47,038  WARN [main] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-04 13:45:47,038  WARN [main] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-04 13:45:47,038  WARN [main] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-04 13:45:52,600  WARN [main] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2020-03-04 13:45:52,600  WARN [main] - ScalaProject - Project LearningScala runs on platform default installation.
+2020-03-04 13:58:38,398  WARN [Worker-1] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-04 13:58:38,507  WARN [Worker-1] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-04 13:58:38,585  WARN [Worker-1] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-04 13:58:38,585  WARN [Worker-1] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-04 13:59:24,178  WARN [Worker-10] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-04 13:59:24,178  WARN [Worker-10] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
