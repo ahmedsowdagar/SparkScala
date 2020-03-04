@@ -1,0 +1,33 @@
+package com.sundogsoftware.spark
+
+import org.apache.spark._
+import org.apache.spark.SparkContext._
+import org.apache.log4j._
+
+/** Compute the average number of friends by age in a social network. */
+object FriendsByAgePractice {
+  
+  def parseLine(line:String) = {
+    val fields = line.split(",")
+    val age = fields(2).toInt
+    val numberOfFriends = fields(3).toInt
+    (age,numberOfFriends)    
+  }
+  
+  def main(args:Array[String]){
+    
+    //Logger setting
+    Logger.getLogger("org").setLevel(Level.ERROR)
+    
+    val sc = new SparkContext("local[*]","FriendsByAgePracticeContext")
+    
+    val lines = sc.textFile("../fakefriends.csv")
+    lines.foreach(println)
+    val rdd = lines.map(parseLine)
+    val rddMap = rdd.mapValues((x=>(x,1)))
+    rddMap.reduceByKey((x,y)=>(x._1+y._1,x._2+y._2))
+    rddMap.foreach((println)
+  }
+  
+}
+  

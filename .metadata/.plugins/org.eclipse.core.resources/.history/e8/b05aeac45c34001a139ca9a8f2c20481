@@ -1,0 +1,16 @@
+package com.sundogsoftware.spark
+
+import org.apache.spark._
+import org.apache.spark.SparkContext._
+import org.apache.log4j._
+
+/** Compute the average number of friends by age in a social network. */
+object FriendsByAgePractice {
+  
+  def main(args:Array[String]){
+    
+    //Logger setting
+    Logger.getLogger("org").setLevel(Level.ERROR)
+  }
+}
+  

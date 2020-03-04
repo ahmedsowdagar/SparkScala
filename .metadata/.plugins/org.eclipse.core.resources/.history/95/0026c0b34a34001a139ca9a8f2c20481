@@ -1,0 +1,25 @@
+package com.sundogsoftware.spark
+
+import org.apache.spark._
+import org.apache.spark.SparkContext._
+import org.apache.log4j._
+import scala.tools.asm.Context
+
+/** Compute the average number of friends by age in a social network. */
+object RatingsCounterPractice {
+  /** Our main function where the action happens */
+  def main(args: Array[String]) {
+  
+    Logger.getLogger("org").setLevel(Level.ERROR)
+    
+    val sc = new SparkContext("local[*]","RatingsCounterPractice")
+    val lines = sc.textFile("../ml-100k/u.data")
+    lines.foreach(println)
+    val ratings = lines.map(x=>x.split("\t")(2))
+    ratings.foreach(println)
+    val ratingsWithCount = ratings.countByValue()
+    ratingsWithCount.foreach(println)
+   }
+    
+}
+  

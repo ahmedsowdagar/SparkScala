@@ -1,0 +1,5 @@
+package com.sundogsoftware.spark.FriendsByAgePractice
+
+object scala extends App {
+  
+}
