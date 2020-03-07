@@ -28,7 +28,6 @@ object FriendsByAgePractice {
     val rddMap = rdd.mapValues((x=>(x,1)))
     rddMap.foreach(println)
     val reducedMap = rddMap.reduceByKey((x,y)=>(x._1+y._1,x._2+y._2))
-    reducedMap.foreach(println);
     val finalMap = reducedMap.mapValues(x=>x._1/x._2)
     finalMap.foreach(println)
     
