@@ -45,6 +45,10 @@ object MaxTemperatures{
     //Get highest for each station
     val maxTemperatureByStation = reducedMapSet.reduceByKey((x,y)=> max(x,y))
     
-    maxTemperatureByStation.foreach(println)
+    //maxTemperatureByStation.foreach(println)
+    
+    val results = maxTemperatureByStation.collect();
+    
+    results.foreach(println);
   }
 }
