@@ -1557,3 +1557,26 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: 1730
 2020-03-07 17:32:02,586  WARN [Worker-12] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
 2020-03-07 17:32:34,573  WARN [Worker-7] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
 2020-03-07 17:32:34,573  WARN [Worker-7] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-08 01:54:38,124  WARN [main] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-08 01:54:38,124  WARN [main] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-08 01:54:38,157  WARN [main] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-08 01:54:38,157  WARN [main] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-08 01:54:46,382  WARN [main] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2020-03-08 01:54:46,382  WARN [main] - ScalaProject - Project LearningScala runs on platform default installation.
+2020-03-08 02:00:01,806  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2020-03-08 02:00:04,743  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1315
+2020-03-08 02:00:08,598  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1322
+2020-03-08 02:01:32,070  WARN [Worker-17] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2020-03-08 02:01:32,070  WARN [Worker-17] - ScalaProject - Project LearningScala runs on platform default installation.
+2020-03-08 02:01:32,132  WARN [Worker-17] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2020-03-08 02:01:32,132  WARN [Worker-17] - ScalaProject - Project LearningScala runs on platform default installation.
+2020-03-08 02:01:36,241  WARN [Worker-17] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-08 02:01:36,241  WARN [Worker-17] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-08 02:01:36,257  WARN [Worker-17] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-08 02:01:36,257  WARN [Worker-17] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-08 02:02:39,036 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2020-03-08 02:02:39,036 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2020-03-08 02:02:39,036 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2020-03-08 02:02:39,036 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2020-03-08 02:02:41,684  WARN [Worker-17] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-08 02:02:41,684  WARN [Worker-17] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
