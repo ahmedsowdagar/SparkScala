@@ -49,6 +49,10 @@ object MaxTemperatures{
     
     val results = maxTemperatureByStation.collect();
     
-    results.foreach(println);
+   // results.foreach(println);
+    
+    for(x<-results){
+      println(x)
+    }
   }
 }
