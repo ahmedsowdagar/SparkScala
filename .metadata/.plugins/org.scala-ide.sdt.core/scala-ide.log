@@ -1580,3 +1580,55 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: 1730
 2020-03-08 02:02:39,036 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
 2020-03-08 02:02:41,684  WARN [Worker-17] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
 2020-03-08 02:02:41,684  WARN [Worker-17] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-08 04:13:53,772  WARN [Worker-22] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-08 04:13:53,772  WARN [Worker-22] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-08 04:14:47,347  WARN [Worker-21] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-08 04:14:47,347  WARN [Worker-21] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-08 04:14:47,800  WARN [Java indexing] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-08 04:14:47,800  WARN [Java indexing] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-08 04:14:48,847  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2020-03-08 04:14:49,503  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2020-03-08 04:14:50,988  WARN [Worker-25] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-08 04:14:50,988  WARN [Worker-25] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-08 04:25:48,565  WARN [Worker-22] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-08 04:25:48,565  WARN [Worker-22] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-08 04:26:26,677  WARN [Worker-21] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-08 04:26:26,677  WARN [Worker-21] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-08 04:26:46,145  WARN [Worker-26] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-08 04:26:46,145  WARN [Worker-26] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-08 04:27:00,788  WARN [Worker-26] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-08 04:27:00,788  WARN [Worker-26] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-08 04:27:28,874  WARN [Worker-26] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-08 04:27:28,874  WARN [Worker-26] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-08 04:28:03,084  WARN [Worker-15] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-08 04:28:03,084  WARN [Worker-15] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-08 04:28:29,902  WARN [Worker-22] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-08 04:28:29,902  WARN [Worker-22] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-08 04:28:43,389  WARN [Worker-15] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-08 04:28:43,389  WARN [Worker-15] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-08 04:28:48,421  WARN [Worker-21] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-08 04:28:48,421  WARN [Worker-21] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-08 04:29:26,369  WARN [Worker-21] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-08 04:29:26,385  WARN [Worker-21] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-08 04:30:34,081  WARN [Worker-22] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-08 04:30:34,081  WARN [Worker-22] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-08 04:30:56,218  WARN [Worker-21] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-08 04:30:56,218  WARN [Worker-21] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-08 04:31:03,993  WARN [Worker-26] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-08 04:31:03,993  WARN [Worker-26] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-08 04:33:45,592  WARN [Worker-22] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-08 04:33:45,592  WARN [Worker-22] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-08 04:51:52,449  WARN [Worker-24] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-08 04:51:52,449  WARN [Worker-24] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-08 04:51:52,730  WARN [Worker-26] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-08 04:51:52,730  WARN [Worker-26] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-08 04:52:11,311  WARN [Worker-15] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-08 04:52:11,311  WARN [Worker-15] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-08 04:52:59,726  WARN [Worker-22] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-08 04:52:59,726  WARN [Worker-22] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-08 04:55:30,560  WARN [Worker-24] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-08 04:55:30,560  WARN [Worker-24] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-08 04:56:14,290  WARN [Worker-24] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-08 04:56:14,290  WARN [Worker-24] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
+2020-03-08 04:56:44,026  WARN [Worker-27] - ScalaProject - Project SparkScalaCourse has platform default sourceLevel.
+2020-03-08 04:56:44,026  WARN [Worker-27] - ScalaProject - Project SparkScalaCourse runs on platform default installation.
